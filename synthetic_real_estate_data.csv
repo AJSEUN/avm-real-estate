@@ -1,0 +1,301 @@
+price,location,property_type,bedrooms,bathrooms,size_sqft,age
+1080634489,Surulere,Apartment,3,2,3592,6
+1320639911,Lekki,Apartment,3,3,2635,3
+1453627069,Lekki,Duplex,5,4,2891,11
+1271196025,Victoria Island,Duplex,4,4,1684,11
+249495231,Yaba,Duplex,1,1,974,9
+539128388,Surulere,Duplex,3,2,1767,2
+1361863139,Lekki,Apartment,5,5,2714,17
+2667245683,Ikoyi,Duplex,2,1,3324,1
+1203196942,Surulere,Apartment,4,4,3999,7
+1047155555,Lekki,Duplex,1,0,2085,7
+1505187065,Victoria Island,Duplex,2,1,2000,17
+454447262,Surulere,Duplex,2,1,1495,13
+255930708,Surulere,Apartment,5,4,837,14
+661635160,Victoria Island,Apartment,4,3,879,12
+774533643,Yaba,Apartment,5,5,3068,0
+1100875040,Lekki,Apartment,1,0,2198,2
+1785753339,Lekki,Apartment,2,2,3565,8
+2891711062,Ikoyi,Duplex,4,3,3604,15
+823648816,Yaba,Apartment,4,3,3273,2
+766612422,Lekki,Apartment,3,3,1528,13
+1719950770,Lekki,Apartment,2,1,3439,12
+1948754454,Ikoyi,Duplex,5,4,2423,4
+393320495,Yaba,Apartment,3,3,1559,12
+1618657213,Lekki,Apartment,4,3,3229,12
+1717823091,Ikoyi,Apartment,4,3,2143,11
+1966784413,Lekki,Duplex,2,2,3919,6
+2539827948,Ikoyi,Apartment,1,1,3180,19
+655528576,Ikoyi,Apartment,3,3,817,4
+1258115603,Lekki,Duplex,4,3,2498,8
+855660605,Ikoyi,Duplex,1,0,1063,11
+2621320746,Victoria Island,Apartment,1,1,3499,16
+1677380415,Ikoyi,Duplex,2,1,2089,4
+1324422809,Ikoyi,Apartment,3,2,1653,11
+188308926,Surulere,Apartment,3,2,622,16
+885860078,Yaba,Duplex,2,1,3529,10
+3121761436,Ikoyi,Apartment,4,4,3897,15
+1233810681,Lekki,Duplex,4,4,2455,18
+1708611987,Lekki,Apartment,3,2,3411,6
+911556731,Ikoyi,Apartment,2,1,1140,10
+1550154594,Ikoyi,Apartment,2,2,1938,9
+458019163,Surulere,Duplex,2,1,1516,19
+2245504516,Ikoyi,Duplex,1,0,2801,11
+647377154,Yaba,Duplex,3,3,2556,8
+1358347191,Lekki,Duplex,3,2,2699,0
+581084423,Surulere,Apartment,1,0,1943,5
+923833272,Surulere,Duplex,3,2,3057,2
+849901503,Yaba,Duplex,2,1,3369,2
+532883837,Yaba,Apartment,4,4,2103,0
+614386582,Yaba,Duplex,4,3,2419,7
+477435893,Lekki,Apartment,1,0,959,18
+186893963,Yaba,Apartment,3,3,725,0
+1055471491,Ikoyi,Apartment,4,4,1315,18
+259924123,Lekki,Duplex,1,0,516,11
+673865988,Yaba,Duplex,5,4,2646,8
+923648307,Yaba,Apartment,5,5,3670,0
+969789944,Yaba,Apartment,1,0,3894,17
+1796783783,Victoria Island,Apartment,2,2,2395,13
+496503649,Victoria Island,Duplex,2,2,654,9
+555617654,Victoria Island,Apartment,1,1,745,15
+591167115,Yaba,Duplex,2,2,2341,12
+885561664,Victoria Island,Apartment,1,0,1184,19
+403039576,Surulere,Apartment,4,3,1333,18
+2148575715,Victoria Island,Apartment,5,4,2861,16
+2380094791,Victoria Island,Duplex,3,2,3160,0
+134960099,Yaba,Duplex,4,3,504,6
+147654390,Yaba,Duplex,4,3,546,2
+351667197,Surulere,Duplex,5,4,1135,9
+794877945,Lekki,Apartment,3,2,1581,4
+383901625,Yaba,Duplex,1,0,1512,0
+1229318632,Victoria Island,Apartment,2,1,1641,15
+429499391,Yaba,Apartment,1,0,1712,6
+921154050,Yaba,Duplex,5,5,3647,15
+441198014,Yaba,Duplex,1,1,1743,4
+1388364121,Ikoyi,Duplex,4,4,1727,15
+1615214445,Victoria Island,Duplex,5,5,2135,0
+571591249,Yaba,Apartment,2,1,2281,4
+898552695,Surulere,Apartment,2,1,2989,0
+838762054,Yaba,Apartment,4,3,3339,15
+2031147719,Victoria Island,Apartment,4,3,2707,19
+630223100,Surulere,Duplex,3,2,2068,0
+973931593,Lekki,Apartment,5,4,1940,7
+266164673,Lekki,Duplex,5,5,511,13
+818229305,Yaba,Apartment,2,2,3274,16
+901539618,Yaba,Duplex,2,1,3569,1
+1720835626,Ikoyi,Apartment,4,3,2149,12
+973328009,Yaba,Duplex,4,4,3848,3
+408163683,Yaba,Apartment,3,3,1622,15
+2960395798,Victoria Island,Apartment,5,4,3940,12
+1434187261,Ikoyi,Apartment,1,0,1796,16
+271475504,Surulere,Duplex,1,0,896,18
+184604891,Surulere,Duplex,5,5,575,8
+194139458,Surulere,Apartment,2,2,643,4
+604788340,Surulere,Apartment,4,4,1992,3
+1259796333,Ikoyi,Apartment,5,5,1565,6
+927735658,Victoria Island,Apartment,3,3,1232,10
+2738375104,Victoria Island,Apartment,4,4,3645,11
+690102401,Yaba,Duplex,5,4,2717,8
+1296662565,Lekki,Duplex,2,2,2576,4
+940733584,Lekki,Duplex,5,5,1865,19
+2916048924,Ikoyi,Apartment,4,3,3641,18
+721333190,Surulere,Duplex,3,2,2381,18
+875508283,Lekki,Apartment,5,4,1743,19
+893650284,Yaba,Apartment,1,1,3572,2
+614293976,Surulere,Duplex,1,1,2031,16
+2093353068,Ikoyi,Duplex,5,4,2605,11
+861981899,Yaba,Apartment,5,4,3433,10
+518708158,Yaba,Duplex,3,3,2055,17
+3063818230,Ikoyi,Apartment,1,1,3830,15
+2629542887,Ikoyi,Apartment,4,3,3283,15
+471169401,Surulere,Duplex,4,4,1531,3
+2467222744,Victoria Island,Duplex,2,1,3279,4
+1057604168,Surulere,Duplex,3,2,3506,16
+2626379996,Ikoyi,Apartment,4,4,3279,15
+229027618,Yaba,Duplex,3,3,889,17
+126314442,Yaba,Apartment,1,0,509,17
+908512942,Yaba,Apartment,1,0,3636,17
+453281548,Ikoyi,Apartment,5,4,562,16
+812500404,Ikoyi,Duplex,1,1,1010,0
+655242786,Surulere,Apartment,5,5,2168,5
+809863273,Yaba,Apartment,5,5,3224,9
+1506400896,Lekki,Apartment,5,4,3004,13
+992945616,Lekki,Apartment,5,4,1969,0
+887565514,Victoria Island,Duplex,2,1,1173,2
+556673069,Victoria Island,Duplex,1,0,735,4
+1655836694,Lekki,Apartment,1,0,3314,14
+236002757,Yaba,Apartment,2,2,934,6
+1006980722,Surulere,Duplex,2,1,3345,14
+2649700875,Victoria Island,Duplex,1,0,3531,14
+972456617,Victoria Island,Apartment,1,1,1296,3
+1905520929,Ikoyi,Duplex,1,0,2375,4
+145690730,Yaba,Duplex,5,4,542,15
+1875799998,Lekki,Apartment,1,1,3754,15
+1732863455,Lekki,Duplex,4,3,3447,2
+1239462898,Lekki,Apartment,5,4,2469,18
+296977712,Yaba,Apartment,2,1,1181,5
+911066336,Yaba,Apartment,4,3,3617,1
+2506672869,Victoria Island,Apartment,3,3,3341,14
+781707328,Lekki,Apartment,5,5,1549,3
+2616524350,Ikoyi,Apartment,5,4,3266,14
+2414344682,Victoria Island,Duplex,2,2,3213,13
+711446026,Lekki,Apartment,3,3,1418,13
+1008918258,Surulere,Apartment,2,1,3353,2
+977593464,Ikoyi,Apartment,5,4,1213,6
+2685158956,Ikoyi,Apartment,2,1,3359,16
+173397900,Surulere,Apartment,4,3,566,8
+1499087198,Victoria Island,Apartment,4,4,1993,1
+2387139781,Ikoyi,Duplex,3,2,2972,4
+747261157,Surulere,Duplex,2,2,2475,12
+801275893,Yaba,Apartment,1,1,3209,5
+875168406,Surulere,Duplex,3,2,2897,8
+715195041,Lekki,Apartment,5,4,1419,5
+718966197,Surulere,Duplex,3,2,2370,5
+1578525134,Ikoyi,Duplex,3,2,1964,1
+1366034693,Lekki,Duplex,2,2,2720,11
+930096675,Victoria Island,Duplex,4,4,1223,0
+926188260,Ikoyi,Duplex,1,0,1153,5
+1266882272,Lekki,Apartment,4,4,2526,2
+1838716875,Victoria Island,Duplex,2,2,2442,9
+617954600,Victoria Island,Apartment,2,1,820,4
+1958941270,Ikoyi,Apartment,3,3,2443,5
+1436153649,Lekki,Duplex,1,1,2865,11
+791236594,Yaba,Duplex,3,3,3135,2
+1508103530,Ikoyi,Duplex,4,3,1872,7
+1454422244,Ikoyi,Apartment,4,3,1814,4
+315386921,Lekki,Apartment,2,1,631,12
+2385015286,Ikoyi,Duplex,3,3,2969,0
+2845008749,Ikoyi,Apartment,1,1,3554,1
+625627781,Yaba,Duplex,3,3,2470,5
+1549043054,Lekki,Apartment,3,2,3101,19
+444072796,Yaba,Apartment,4,3,1754,3
+3192514397,Ikoyi,Apartment,5,5,3982,0
+309723520,Surulere,Duplex,2,1,1016,9
+694398503,Yaba,Apartment,4,4,2763,19
+660860491,Yaba,Duplex,5,5,2594,3
+797737827,Yaba,Duplex,3,3,3174,18
+788888349,Surulere,Duplex,3,3,2616,19
+652890649,Victoria Island,Duplex,2,1,862,11
+890388903,Yaba,Duplex,2,2,3540,14
+258553731,Surulere,Apartment,4,3,855,15
+167873360,Yaba,Duplex,5,4,626,9
+451798716,Surulere,Apartment,2,2,1513,18
+1840881412,Ikoyi,Duplex,3,3,2292,13
+894245886,Yaba,Duplex,4,3,3530,0
+1769054697,Lekki,Duplex,5,5,3516,8
+438439806,Surulere,Apartment,5,4,1436,2
+266474737,Surulere,Apartment,2,2,885,6
+1601663354,Lekki,Duplex,3,3,3187,10
+351736915,Surulere,Apartment,3,2,1163,6
+200339765,Yaba,Duplex,1,1,784,10
+2720370451,Victoria Island,Duplex,2,2,3620,6
+675938896,Ikoyi,Apartment,4,3,841,7
+2219956602,Ikoyi,Duplex,5,4,2762,18
+473166471,Lekki,Duplex,5,5,928,15
+949505585,Lekki,Duplex,1,0,1894,14
+2006790178,Victoria Island,Duplex,4,4,2661,5
+394417289,Surulere,Apartment,5,5,1299,9
+1322462182,Lekki,Duplex,2,1,2634,17
+833202967,Yaba,Duplex,1,1,3306,2
+1815162052,Lekki,Apartment,5,4,3625,14
+1778072801,Lekki,Apartment,1,0,3554,7
+479199876,Lekki,Duplex,3,2,951,19
+214425328,Yaba,Duplex,2,2,829,6
+520251921,Yaba,Apartment,5,5,2071,17
+1004040642,Ikoyi,Apartment,5,4,1245,1
+441289569,Surulere,Duplex,5,5,1433,8
+857046055,Yaba,Duplex,3,2,3401,11
+507132465,Ikoyi,Duplex,3,2,627,16
+366872328,Lekki,Apartment,1,0,736,6
+480002337,Lekki,Duplex,4,3,941,12
+647338456,Yaba,Apartment,2,1,2589,3
+2663624486,Victoria Island,Apartment,5,5,3545,11
+977175130,Yaba,Duplex,5,5,3858,5
+2535524137,Victoria Island,Duplex,5,5,3368,6
+299040719,Yaba,Apartment,2,2,1201,13
+2533453490,Victoria Island,Duplex,3,3,3366,3
+1368626031,Victoria Island,Apartment,5,5,1819,10
+989778165,Surulere,Apartment,3,3,3291,2
+1366751278,Victoria Island,Apartment,5,4,1812,3
+1052711754,Surulere,Apartment,3,2,3505,12
+1520847208,Victoria Island,Apartment,2,1,2024,8
+1149603913,Ikoyi,Apartment,1,1,1438,7
+1403448459,Ikoyi,Apartment,3,3,1752,11
+1418971723,Lekki,Duplex,2,1,2822,4
+768260696,Lekki,Apartment,1,1,1540,9
+575248231,Ikoyi,Apartment,4,3,715,18
+885214071,Yaba,Apartment,5,4,3523,5
+793564718,Ikoyi,Duplex,1,0,988,12
+1744240541,Victoria Island,Duplex,1,1,2317,6
+808375233,Yaba,Apartment,1,1,3235,7
+1901633382,Lekki,Apartment,5,4,3794,19
+564035341,Lekki,Duplex,3,2,1114,16
+819234055,Lekki,Duplex,4,4,1621,2
+2289338204,Victoria Island,Apartment,4,4,3044,3
+413300713,Ikoyi,Apartment,2,2,515,12
+376059297,Surulere,Duplex,2,2,1238,9
+906579706,Lekki,Apartment,5,5,1797,2
+244772280,Surulere,Apartment,1,1,817,11
+1039950195,Surulere,Apartment,1,0,3473,6
+414109555,Yaba,Apartment,1,1,1665,17
+709535332,Victoria Island,Duplex,5,5,931,0
+3132963499,Ikoyi,Apartment,1,1,3915,3
+732301894,Lekki,Duplex,5,5,1438,5
+1873090435,Lekki,Duplex,5,4,3724,6
+922851661,Lekki,Duplex,4,4,1833,18
+2076978464,Victoria Island,Apartment,2,2,2765,8
+419613414,Victoria Island,Apartment,5,5,553,14
+1929488316,Ikoyi,Apartment,3,2,2413,16
+680772151,Lekki,Duplex,3,2,1349,16
+647144088,Lekki,Duplex,3,2,1280,14
+1442739767,Ikoyi,Duplex,5,4,1790,8
+866233803,Lekki,Apartment,4,4,1718,1
+1438874135,Victoria Island,Apartment,1,1,1918,1
+509692964,Surulere,Apartment,3,3,1699,17
+448525991,Surulere,Duplex,5,4,1472,16
+822006951,Yaba,Duplex,5,5,3245,2
+1714507749,Victoria Island,Duplex,3,3,2272,0
+1566525416,Lekki,Duplex,4,4,3118,15
+559269123,Yaba,Apartment,5,5,2216,9
+1348622572,Lekki,Duplex,4,4,2680,10
+2314824159,Victoria Island,Apartment,3,3,3082,9
+1915734732,Lekki,Apartment,2,1,3829,13
+516023994,Yaba,Duplex,2,1,2048,13
+3034930491,Ikoyi,Apartment,1,0,3794,1
+272085423,Yaba,Apartment,3,2,1085,8
+2167296853,Victoria Island,Apartment,4,3,2882,4
+1175846475,Surulere,Duplex,4,3,3895,16
+780902897,Ikoyi,Duplex,1,0,973,17
+444635740,Yaba,Duplex,4,4,1750,19
+1088877326,Surulere,Apartment,5,5,3604,5
+977532732,Lekki,Apartment,2,2,1953,1
+164811862,Surulere,Apartment,3,3,538,14
+584104094,Yaba,Apartment,3,2,2323,1
+1024324695,Surulere,Duplex,3,3,3396,11
+412673189,Surulere,Apartment,5,5,1368,19
+1022347865,Lekki,Apartment,5,5,2030,0
+1124286936,Surulere,Duplex,2,2,3734,16
+640474968,Surulere,Duplex,4,3,2107,13
+874747697,Ikoyi,Apartment,5,4,1090,13
+439286836,Surulere,Apartment,3,3,1459,11
+315081990,Surulere,Duplex,3,2,1026,13
+1818714821,Ikoyi,Duplex,4,3,2263,8
+2358900074,Ikoyi,Duplex,5,5,2933,7
+631768317,Yaba,Apartment,5,4,2513,17
+1272543016,Lekki,Apartment,1,1,2543,5
+1042888075,Lekki,Duplex,3,2,2076,16
+2584478599,Ikoyi,Duplex,4,3,3220,9
+2085995944,Victoria Island,Duplex,1,0,2772,0
+672828753,Yaba,Duplex,1,1,2663,6
+487521001,Victoria Island,Duplex,2,1,642,1
+747515048,Surulere,Apartment,3,3,2486,5
+969964359,Ikoyi,Apartment,1,0,1215,7
+467651274,Victoria Island,Duplex,4,3,610,6
+1176671102,Surulere,Duplex,4,3,3885,2
+1181457685,Ikoyi,Duplex,2,1,1470,17
+621780338,Surulere,Apartment,4,4,2060,12
+1822968123,Victoria Island,Apartment,4,4,2427,18
+876981519,Victoria Island,Duplex,2,2,1161,4
+1790322466,Ikoyi,Apartment,3,2,2237,18
+460515757,Yaba,Apartment,1,1,1855,16
+643536852,Yaba,Apartment,2,2,2571,19
