@@ -51,7 +51,7 @@ def create_pdf(data):
 # ===============================
 # SIDEBAR
 # ===============================
-st.sidebar.title("🏢 Protine AVM")
+st.sidebar.title("🏢 NORAVICK AVM")
 
 st.sidebar.info(
     "AI-powered property valuation system built for Lagos real estate market."
