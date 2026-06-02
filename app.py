@@ -1,46 +1,42 @@
 import streamlit as st
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
+import joblib
 
-# Load data
-data = pd.read_csv("real_estate_data.csv")
+# ✅ Load trained model and metrics
+model = joblib.load("model.pkl")
+metrics = joblib.load("metrics.pkl")
 
-X = data.drop("price", axis=1)
-y = data["price"]
+# ✅ App Title
+st.title("🏠 Automated Property Valuation Tool")
 
-categorical_cols = ["location", "property_type"]
-numerical_cols = ["bedrooms", "bathrooms", "size_sqft", "age"]
+# ✅ ✅ MODEL PERFORMANCE (THIS IS YOUR STEP 3)
+st.subheader("📊 Model Performance")
 
-preprocessor = ColumnTransformer(
-    transformers=[
-        ("cat", OneHotEncoder(handle_unknown="ignore"), categorical_cols),
-        ("num", "passthrough", numerical_cols)
-    ]
+col1, col2 = st.columns(2)
+
+with col1:
+    st.metric("R² Score", f"{metrics['r2']:.2%}")
+
+with col2:
+    st.metric("MAE", f"₦{metrics['mae']:,.0f}")
+
+# ✅ User Inputs
+location = st.selectbox(
+    "Location",
+    ["Lekki", "Ikoyi", "Yaba", "Surulere", "Victoria Island"]
 )
 
-model = Pipeline(steps=[
-    ("preprocessing", preprocessor),
-    ("regressor", RandomForestRegressor(n_estimators=100, random_state=42))
-])
+property_type = st.selectbox(
+    "Property Type",
+    ["Apartment", "Duplex"]
+)
 
-# Train model
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
-model.fit(X_train, y_train)
-
-# UI
-st.title("🏠 Property Valuation Tool")
-
-location = st.text_input("Location")
-property_type = st.selectbox("Property Type", ["Apartment", "Duplex"])
 bedrooms = st.number_input("Bedrooms", 1, 10)
 bathrooms = st.number_input("Bathrooms", 1, 10)
 size_sqft = st.number_input("Size (sqft)")
 age = st.number_input("Property Age")
 
+# ✅ Prediction
 if st.button("Predict Price"):
     input_data = pd.DataFrame([{
         "location": location,
@@ -50,6 +46,8 @@ if st.button("Predict Price"):
         "size_sqft": size_sqft,
         "age": age
     }])
-    
+
     prediction = model.predict(input_data)[0]
-    st.success(f"Estimated Price: ₦{prediction:,.2f}")
+
+    st.success(f"Estimated Price: ₦{prediction:,.0f}")
+``
